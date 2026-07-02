@@ -1,0 +1,8 @@
+{
+  "name": "SmartBasket AI",
+  "description": "SmartBasket AI - Grocery Price Intelligence Platform. Analyze grocery price histories, forecast future prices, generate budget-friendly shopping baskets, and consult a server-side Gemini AI Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
